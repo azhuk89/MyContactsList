@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ContactsList
+
+  Created by Alexandr Zhuk on 7/14/16.
+  Copyright © 2016 Alexandr Zhuk. All rights reserved.
+*/
+
+"ACCESS_DENIED_ALERT_TITLE" = "Contacts Access Denied";
+"PHONE_CALL_ALERT_TITLE" = "Phone Call Error";
+"ACCESS_DENIED_ALERT_MESSAGE" = "You must give the app permission to access your contacts!";
+"PHONE_CALL_ALERT_MESSAGE" = "Your device can't make a call or phone number is invalid!";
+"NO_PHONE_NUMBER_ALERT_MESSAGE" = "No mobile phone number!";

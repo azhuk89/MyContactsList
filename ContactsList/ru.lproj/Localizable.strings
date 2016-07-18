@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ContactsList
+
+  Created by Alexandr Zhuk on 7/14/16.
+  Copyright © 2016 Alexandr Zhuk. All rights reserved.
+*/
+
+"ACCESS_DENIED_ALERT_TITLE" = "Контакты: доступ отсуствует";
+"PHONE_CALL_ALERT_TITLE" = "Ошибка вызова";
+"ACCESS_DENIED_ALERT_MESSAGE" = "Вы должны предоставить приложению доступ к вашим контактам!";
+"PHONE_CALL_ALERT_MESSAGE" = "Ваше устройство не может совершить вызов или номер неправильный!";
+"NO_PHONE_NUMBER_ALERT_MESSAGE" = "Нет номера мобильного телефона!";

@@ -1,0 +1,9 @@
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "1ra-UY-jlo"; */
+"1ra-UY-jlo.title" = "Контакты";
+
+/* Class = "UITableViewController"; title = "Contacts"; ObjectID = "kJK-UG-8Sp"; */
+"kJK-UG-8Sp.title" = "Контакты";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nSR-1g-kbm"; */
+"nSR-1g-kbm.text" = "Метка";
